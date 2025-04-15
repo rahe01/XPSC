@@ -14,10 +14,6 @@ int main(){
 
     int sum = r+c;
 
-
-
-
-    
     int fresh = 7 - sum;
 
     cout << fresh<<endl;
