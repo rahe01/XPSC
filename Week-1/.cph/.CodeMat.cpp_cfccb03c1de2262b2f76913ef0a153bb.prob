@@ -1,0 +1,1 @@
+{"name":"Local: CodeMat","url":"d:\\XPSC\\Week-1\\CodeMat.cpp","tests":[{"id":1743604335676,"input":"234 643","output":"Yes"},{"id":1743604352462,"input":"976 899","output":"No"},{"id":1743604366911,"input":"250 250","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-1\\CodeMat.cpp","group":"local","local":true}

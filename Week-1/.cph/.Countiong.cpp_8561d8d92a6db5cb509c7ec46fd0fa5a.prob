@@ -1,0 +1,1 @@
+{"name":"Local: Countiong","url":"d:\\XPSC\\Week-1\\Countiong.cpp","tests":[{"id":1742835571982,"input":"2 4","output":"3"},{"id":1742835615914,"input":"10 100","output":"91"},{"id":1742835630417,"input":"3 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-1\\Countiong.cpp","group":"local","local":true}

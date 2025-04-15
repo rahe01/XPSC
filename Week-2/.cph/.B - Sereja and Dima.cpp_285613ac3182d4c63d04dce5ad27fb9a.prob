@@ -1,0 +1,1 @@
+{"name":"Local: B - Sereja and Dima","url":"d:\\XPSC\\Week-2\\B - Sereja and Dima.cpp","tests":[{"id":1743849817693,"input":"4\n4 1 2 10","output":"12 5"},{"id":1743849833075,"input":"7\n1 2 3 4 5 6 7","output":"16 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-2\\B - Sereja and Dima.cpp","group":"local","local":true}

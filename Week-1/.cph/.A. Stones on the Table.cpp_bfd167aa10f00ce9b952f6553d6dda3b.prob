@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\XPSC\\Week-1\\A. Stones on the Table.cpp","tests":[{"id":1743268458541,"input":"3\nRRG","output":"1"},{"id":1743268496351,"input":"5\nRRRRR","output":"4"},{"id":1743268520414,"input":"4\nBRBG","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-1\\A. Stones on the Table.cpp","group":"local","local":true}

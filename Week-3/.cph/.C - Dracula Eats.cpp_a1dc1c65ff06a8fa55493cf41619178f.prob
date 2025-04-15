@@ -1,0 +1,1 @@
+{"name":"Local: C - Dracula Eats","url":"d:\\XPSC\\Week-3\\C - Dracula Eats.cpp","tests":[{"id":1744644244838,"input":"4\n1\n10\n15\n16","output":"0\n2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-3\\C - Dracula Eats.cpp","group":"local","local":true}

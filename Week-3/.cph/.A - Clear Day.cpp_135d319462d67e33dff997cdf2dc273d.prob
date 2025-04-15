@@ -1,0 +1,1 @@
+{"name":"Local: A - Clear Day","url":"d:\\XPSC\\Week-3\\A - Clear Day.cpp","tests":[{"id":1744642906293,"input":"2 3","output":"2"},{"id":1744642915945,"input":"3 4","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-3\\A - Clear Day.cpp","group":"local","local":true}

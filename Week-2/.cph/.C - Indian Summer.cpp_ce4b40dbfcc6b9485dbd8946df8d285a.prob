@@ -1,0 +1,1 @@
+{"name":"Local: C - Indian Summer","url":"d:\\XPSC\\Week-2\\C - Indian Summer.cpp","tests":[{"id":1743851003409,"input":"5\nbirch yellow\nmaple red\nbirch yellow\nmaple yellow\nmaple green","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-2\\C - Indian Summer.cpp","group":"local","local":true}

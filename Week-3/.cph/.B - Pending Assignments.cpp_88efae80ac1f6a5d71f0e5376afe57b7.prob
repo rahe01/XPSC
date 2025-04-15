@@ -1,0 +1,1 @@
+{"name":"Local: B - Pending Assignments","url":"d:\\XPSC\\Week-3\\B - Pending Assignments.cpp","tests":[{"id":1744643173183,"input":"3\n5 5 5\n50 80 2\n20 72 1","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-3\\B - Pending Assignments.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Move Grid","url":"d:\\XPSC\\Week-2\\Move Grid.cpp","tests":[{"id":1744209144446,"input":"5 4 7 3","output":"-2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-2\\Move Grid.cpp","group":"local","local":true}
