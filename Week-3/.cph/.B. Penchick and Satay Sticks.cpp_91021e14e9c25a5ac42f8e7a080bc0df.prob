@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\XPSC\\Week-3\\B. Penchick and Satay Sticks.cpp","tests":[{"id":1744810452523,"input":"2\n4\n2 1 3 4\n4\n4 2 3 1","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-3\\B. Penchick and Satay Sticks.cpp","group":"local","local":true}

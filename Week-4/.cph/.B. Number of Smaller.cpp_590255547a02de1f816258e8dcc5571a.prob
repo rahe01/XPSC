@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\XPSC\\Week-4\\B. Number of Smaller.cpp","tests":[{"id":1745000382053,"input":"6 7\n1 6 9 13 18 18\n2 3 8 13 15 21 25","output":"1 1 2 3 4 6 6 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-4\\B. Number of Smaller.cpp","group":"local","local":true}
