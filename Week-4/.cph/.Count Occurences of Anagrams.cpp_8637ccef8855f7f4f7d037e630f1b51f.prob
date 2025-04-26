@@ -1,0 +1,1 @@
+{"name":"Local: Count Occurences of Anagrams","url":"d:\\XPSC\\Week-4\\Count Occurences of Anagrams.cpp","tests":[{"id":1745390356629,"input":"forxxorfxdofr \nfor","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-4\\Count Occurences of Anagrams.cpp","group":"local","local":true}

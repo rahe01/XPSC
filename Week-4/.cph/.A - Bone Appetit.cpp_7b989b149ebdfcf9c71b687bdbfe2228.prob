@@ -1,0 +1,1 @@
+{"name":"Local: A - Bone Appetit","url":"d:\\XPSC\\Week-4\\A - Bone Appetit.cpp","tests":[{"id":1745332910527,"input":"4 2\n5 6","output":"32"},{"id":1745332998213,"input":"5 0\n0 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-4\\A - Bone Appetit.cpp","group":"local","local":true}
