@@ -1,0 +1,1 @@
+{"name":"Local: A - Counting","url":"d:\\XPSC\\Week-5\\A - Counting.cpp","tests":[{"id":1745944865142,"input":"2 4","output":"3"},{"id":1745944877270,"input":"10 100","output":"91"},{"id":1745944887463,"input":"3 2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\XPSC\\Week-5\\A - Counting.cpp","group":"local","local":true}
